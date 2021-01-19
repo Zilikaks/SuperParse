@@ -1,0 +1,10 @@
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\Debug\SuperParser.PL.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\Debug\SuperParser.ParseResultForm.resources
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\Debug\SuperParser.Properties.Resources.resources
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\Debug\SuperParser.PL.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\Debug\SuperParser.PL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\Debug\SuperParser.PL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\Debug\SuperParser.ParseResultForm.resources
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\Debug\SuperParser.Properties.Resources.resources
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\Debug\SuperParser.PL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\Debug\SuperParser.PL.csproj.CoreCompileInputs.cache

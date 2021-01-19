@@ -1,0 +1,173 @@
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\MLModel.zip
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\data.txt
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe.config
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.pdb
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParserML.Model.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\WebDriver.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.pdb
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll.config
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.pdb
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll.config
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParserML.Model.pdb
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.pdb
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\WebDriver.xml
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\x64\Debug\SuperParser.ParseResultForm.resources
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\x64\Debug\SuperParser.Properties.Resources.resources
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.CopyComplete
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\x64\Debug\SuperParser.exe
+C:\Users\Sergey\Desktop\SuperParser\SuperParser\obj\x64\Debug\SuperParser.pdb
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\data.txt
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe.config
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.pdb
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.dll
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\WebDriver.dll
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.pdb
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll.config
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.pdb
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll.config
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.pdb
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\WebDriver.xml
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.ParseResultForm.resources
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.Properties.Resources.resources
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.CopyComplete
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.exe
+C:\Users\Никита\Desktop\1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.pdb
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\data.txt
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe.config
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.pdb
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\WebDriver.dll
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.dll
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.pdb
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll.config
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.pdb
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll.config
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\WebDriver.xml
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.pdb
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\obj\x64\Debug\SuperParser.ParseResultForm.resources
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\obj\x64\Debug\SuperParser.Properties.Resources.resources
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.CopyComplete
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\obj\x64\Debug\SuperParser.exe
+C:\Users\Sergey\Desktop\V2\SuperParser\SuperParser\obj\x64\Debug\SuperParser.pdb
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\data.txt
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe.config
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.pdb
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\WebDriver.dll
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.dll
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.pdb
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll.config
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.pdb
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll.config
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\WebDriver.xml
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.pdb
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.ParseResultForm.resources
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.Properties.Resources.resources
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.CopyComplete
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.exe
+C:\Users\Никита\Desktop\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.pdb
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\data.txt
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe.config
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.pdb
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\WebDriver.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.pdb
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll.config
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.pdb
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll.config
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\WebDriver.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.pdb
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.ParseResultForm.resources
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.Properties.Resources.resources
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.CopyComplete
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.exe
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\data.txt
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe.config
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.exe
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\WebDriver.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.BLL.dll.config
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.DAL.dll.config
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\WebDriver.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\SuperParser.Infrastructure.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.ParseResultForm.resources
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.Properties.Resources.resources
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.PL.csproj.CopyComplete
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.exe
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser\obj\x64\Debug\SuperParser.pdb

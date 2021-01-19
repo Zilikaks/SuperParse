@@ -1,0 +1,18 @@
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\bin\Debug\SuperParser.DAL.dll.config
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\bin\Debug\SuperParser.DAL.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\bin\Debug\SuperParser.DAL.pdb
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\bin\Debug\SuperParser.Infrastructure.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\bin\Debug\SuperParser.Infrastructure.pdb
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\obj\Debug\SuperParser.DAL.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\obj\Debug\SuperParser.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\obj\Debug\SuperParser.DAL.csproj.CopyComplete
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\obj\Debug\SuperParser.DAL.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.DAL\obj\Debug\SuperParser.DAL.pdb
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.DAL\obj\Debug\SuperParser.DAL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.DAL\obj\Debug\SuperParser.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.DAL\obj\Debug\SuperParser.DAL.dll
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.DAL\obj\Debug\SuperParser.DAL.pdb

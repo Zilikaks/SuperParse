@@ -1,0 +1,72 @@
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.BLL.dll.config
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.BLL.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.BLL.pdb
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\HtmlAgilityPack.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.DAL.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.Infrastructure.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Buffers.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.CodeDom.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Memory.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Threading.Channels.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\WebDriver.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.DAL.pdb
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.DAL.dll.config
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.Infrastructure.pdb
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\HtmlAgilityPack.pdb
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\HtmlAgilityPack.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Buffers.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Collections.Immutable.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Memory.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Net.Http.Formatting.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Threading.Channels.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\WebDriver.xml
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\obj\x86\Debug\SuperParser.BLL.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\obj\x86\Debug\SuperParser.BLL.csproj.CopyComplete
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\obj\x86\Debug\SuperParser.BLL.dll
+C:\Users\Никита\Desktop\Вакансии\V2.1\SuperParser\SuperParser.BLL\obj\x86\Debug\SuperParser.BLL.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.BLL.dll.config
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.BLL.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.BLL.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\HtmlAgilityPack.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.DAL.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.Infrastructure.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Buffers.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.CodeDom.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Memory.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Threading.Channels.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\WebDriver.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.DAL.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.DAL.dll.config
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\SuperParser.Infrastructure.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\HtmlAgilityPack.pdb
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\HtmlAgilityPack.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Buffers.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Collections.Immutable.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Memory.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Net.Http.Formatting.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Threading.Channels.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\bin\x86\Debug\WebDriver.xml
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\obj\x86\Debug\SuperParser.BLL.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\obj\x86\Debug\SuperParser.BLL.csproj.CopyComplete
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\obj\x86\Debug\SuperParser.BLL.dll
+C:\Users\Никита\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.BLL\obj\x86\Debug\SuperParser.BLL.pdb

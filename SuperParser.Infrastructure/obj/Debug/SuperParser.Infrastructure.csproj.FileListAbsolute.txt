@@ -1,0 +1,11 @@
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.Infrastructure\bin\Debug\SuperParser.Infrastructure.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.Infrastructure\bin\Debug\SuperParser.Infrastructure.pdb
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.Infrastructure\obj\Debug\SuperParser.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.Infrastructure\obj\Debug\SuperParser.Infrastructure.dll
+C:\Users\Sergey\Desktop\SuperParser\SuperParser.Infrastructure\obj\Debug\SuperParser.Infrastructure.pdb
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.Infrastructure\bin\Debug\SuperParser.Infrastructure.dll
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.Infrastructure\bin\Debug\SuperParser.Infrastructure.pdb
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.Infrastructure\obj\Debug\SuperParser.Infrastructure.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.Infrastructure\obj\Debug\SuperParser.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.Infrastructure\obj\Debug\SuperParser.Infrastructure.dll
+C:\Users\user\Desktop\Вакансии v 2\V2.1\SuperParser\SuperParser.Infrastructure\obj\Debug\SuperParser.Infrastructure.pdb
